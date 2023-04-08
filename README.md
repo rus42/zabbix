@@ -1,5 +1,7 @@
 Задание 1
+
 --Install and configure Zabbix for your platform--
+
 1. Install Zabbix repository
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
 dpkg -i zabbix-release_6.0-4+debian11_all.deb
